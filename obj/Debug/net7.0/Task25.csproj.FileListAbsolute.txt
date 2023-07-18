@@ -1,0 +1,15 @@
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\bin\Debug\net7.0\Task25.exe
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\bin\Debug\net7.0\Task25.deps.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\bin\Debug\net7.0\Task25.runtimeconfig.json
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\bin\Debug\net7.0\Task25.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\bin\Debug\net7.0\Task25.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.csproj.AssemblyReference.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.AssemblyInfoInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.AssemblyInfo.cs
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.csproj.CoreCompileInputs.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\refint\Task25.dll
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.pdb
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\Task25.genruntimeconfig.cache
+C:\Users\kukoba\Desktop\Рабочий стол\Geekbrains\Языки программирования\С#\Lesson4\Task25\obj\Debug\net7.0\ref\Task25.dll
